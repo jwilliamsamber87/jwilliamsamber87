@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @jwilliamsamber87 im a mother of four, fulltime Process Technician for the leading EV Manufacturer and a future Data Engineer! I live in Nevada where the weather is never consistent and the mountains are breathtaking! I like to create websites and programs in my free time
-- 👀 I’m interested in Robots and i look forward to living in a world where asking your robot to walk the dog is second nature!
-- 🌱 I’m currently earning my degree in Data Analytics and have a passion for Predictive Analytics!
-- 💞️ I’m looking to collaborate on programming. Im an entry level programmer and i love to learn from others and get many different viewpoints on programming
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌸✨ Hey there! I'm Jessica Williams ✨🌸
+🎓 Aspiring Data Scientist | 📊 Tableau Enthusiast | 🛠️ Future Applications Engineer
+📍 Sacramento, CA | 👩🏽‍💻 Currently studying Data Analytics + learning full-stack dev
+
+💡 I love building beautiful dashboards, automating boring stuff, and solving real-world problems in manufacturing & supply chain.
+
+🚀 My dream? Creating smart, responsive HMIs & real-time production apps that make factory floors run smoother than a fresh press 💅🏽⚙️
+
+🛠️ Skills I'm Growing:
+
+📈 Tableau | 📊 Power BI
+
+🐍 Python | 💻 SQL | 🔌 PLC Integration
+
+💾 Data Viz | 🔍 Analytics | ⚙️ Process Improvement
+
+🌈 Lover of all things tech, coffee, and confidence 💖
+🧠 Learning every day. Grinding every night.
+📬 Open to collabs, internships & mentorship!
+
+✨ “Soft on the outside, sharp with the data.” 💕
 
 <!---
 jwilliamsamber87/jwilliamsamber87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
