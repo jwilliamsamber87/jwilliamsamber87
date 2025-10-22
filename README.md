@@ -2,13 +2,13 @@
 ⚡ Electrician Apprentice | Data Analyst | Future Applications Engineer
 📍 Reno, NV | 👩🏽‍💻 Studying Electrical Engineering & Full-Stack Development
 
-💡 I bridge the gap between electrical systems and data science — turning complex shop-floor data into smart, connected applications. With a background in industrial analytics and automation, I’m passionate about creating web-based tools that integrate live data, streamline workflows, and optimize performance in real time.
+💡 I bridge the gap between electrical systems and data science — transforming complex shop-floor data into smart, connected applications. With over eight years in production and manufacturing, I developed a deep understanding of how machines, data, and people work together. That hands-on experience is what sparked my passion for automation, electrical systems, and intelligent web-based tools that make operations run smoother and smarter.
 
-🚀 My mission? To design intelligent, responsive systems that connect the power on the floor with insights on the screen — where data meets design.
+🚀 My mission: To design responsive, data-driven systems that connect the power on the floor with insights on the screen — where data meets design and innovation powers productivity.
 
 🛠️ Skills & Focus Areas:
 ⚡ Electrical Systems | 🐍 Python | 💻 SQL | 🌐 JavaScript | ⚙️ PLC Integration
-📊 Data Visualization (Tableau, Power BI) | 📈 Analytics | 🔗 Web-Based Automation
+📊 Tableau | 📈 Power BI | 🔗 Data Automation | 💡 Process Optimization
 
 🌈 Tech lover. Builder. Problem-solver. Coffee-powered creative 💖
 🧠 Always learning. Always building.
